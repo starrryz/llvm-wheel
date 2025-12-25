@@ -2,6 +2,7 @@
 requires = [
   "scikit-build-core",
   "wheel",
+  "pybind11",
   "nanobind==2.4.0"
 ]
 
